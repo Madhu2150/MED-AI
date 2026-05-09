@@ -187,7 +187,7 @@ We welcome contributions! Please follow these steps:
 
 ### ⭐ Star this repository if you found it useful!
 
-[![Star This Repo](https://img.shields.io/github/stars/yourusername/mediai?style=social)](https://github.com/Madhu2150/MED-AI)
+[![Star This Repo](https://img.shields.io/github/stars/Madhu2150/MED-AI?style=social)](https://github.com/Madhu2150/MED-AI)
 
 🔗 **Live App:** [mediai-assistant.streamlit.app](https://mediai-assistant.streamlit.app)
 🔗 **Source Code:** [github.com/yourusername/mediai](https://github.com/Madhu2150/MED-AI)
