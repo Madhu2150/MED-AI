@@ -12,7 +12,7 @@
 [![🚀 LIVE APP](https://img.shields.io/badge/🚀_LIVE_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://mediai-assistant.streamlit.app)
 [![📦 GitHub](https://img.shields.io/badge/📦_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/mediai)
 
-🌐 **Live URL:** [https://mediai-assistant.streamlit.app](https://mediai-assistant.streamlit.app)
+🌐 **Live URL:** [https://mediai-assistant.streamlit.app](https://med-ai-kegwhjyuwnjpl7ervrkfjl.streamlit.app/)
 
 </div>
 
@@ -47,7 +47,7 @@
 
 > **No installation required! Try it directly in your browser.**
 
-👉 **[Click here to open the Live App](https://mediai-assistant.streamlit.app)**
+👉 **[Click here to open the Live App](https://med-ai-kegwhjyuwnjpl7ervrkfjl.streamlit.app/)**
 
 ---
 
@@ -189,7 +189,7 @@ We welcome contributions! Please follow these steps:
 
 [![Star This Repo](https://img.shields.io/github/stars/Madhu2150/MED-AI?style=social)](https://github.com/Madhu2150/MED-AI)
 
-🔗 **Live App:** [mediai-assistant.streamlit.app](https://mediai-assistant.streamlit.app)
+🔗 **Live App:** [mediai-assistant.streamlit.app](https://med-ai-kegwhjyuwnjpl7ervrkfjl.streamlit.app/)
 🔗 **Source Code:** [github.com/yourusername/mediai](https://github.com/Madhu2150/MED-AI)
 
 </div>
